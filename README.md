@@ -1,20 +1,33 @@
 # Regex-Golf
 http://regex.alf.nu/
-* Warmup
-  * foo
-* Anchors
-  * ick$
-* Ranges
-  * ^[a-f]*$
-* Backrefs
-  * (...).*\1
-* Abba
+##Warmup
+```
+foo
+```
+##Anchors
+```
+ick$
+```
+##Ranges
+```
+^[a-f]*$
+```
+##Backrefs
+```
+(...).*\1
+```
+##Abba
 
-* A man, a plan
-  * ^(.).*\1$
-* Prime (202)
-* Four (199)
-  * (.)(.\1){3}
+##A man, a plan
+```
+^(.).*\1$
+```
+##Prime (202)
+
+##Four (199)
+```
+(.)(.\1){3}
+```
   
 ## Order
 
