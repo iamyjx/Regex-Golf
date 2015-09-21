@@ -15,8 +15,11 @@ http://regex.alf.nu/
 * Prime (202)
 * Four (199)
   * (.)(.\1){3}
-* Order (196)
-  * ^[a-g]*[h-z]*$
+* Order
+
+``` 
+   ^[a-g]*[h-z]*$
+```
 * Triples (56)
 * Glob (0)
 * Balance (320)
